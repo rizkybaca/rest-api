@@ -1,0 +1,30 @@
+[
+	{
+		"nama" : "Rizky",
+		"umur" : 20,
+		"nim" : "5181311006",
+		"lulus" : true,
+		"hobi" : [
+			"coding",
+			"gaming"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "Dwi Ratna",
+			"pembimbing2" : "Soraya"
+		}
+	},
+	{
+		"nama" : "Rizky",
+		"umur" : 20,
+		"nim" : "5181311006",
+		"lulus" : true,
+		"hobi" : [
+			"coding",
+			"gaming"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "Dwi Ratna",
+			"pembimbing2" : "Soraya"
+		}
+	}
+]
