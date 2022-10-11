@@ -1,2 +1,2 @@
 # rest-api
-learning rest api
+learning rest api & restfull api
